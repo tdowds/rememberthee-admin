@@ -1,7 +1,5 @@
 # rememberthee-admin
 
-<!-- Source code for www.rememberthee.com - the marketing website for Remember Thee. -->
-
 ## Technologies
 Backend
 -  [Python](https://www.python.org) 3.10.0
@@ -73,7 +71,7 @@ Turn on debug mode:
  uvicorn main:app --reload
 ```
 
-Then execute `flask run` and navigate to `localhost:5000` in your browser.
+Then navigate to `localhost:8000` in your browser.
 
 ## Deployment
 https://help.pythonanywhere.com/pages/UploadingAndDownloadingFiles
